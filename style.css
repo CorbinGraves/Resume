@@ -26,7 +26,9 @@ h2{
 }
 
 
-
+.space20{
+  margin-bottom: 20px;
+}
 
 /* Google Fonts */
 @import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
