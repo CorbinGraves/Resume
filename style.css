@@ -25,7 +25,9 @@ h2{
   font-size: 3em; 
 }
 
-
+li{
+  margin-bottom: 10px;
+}
 .space20{
   margin-bottom: 90px;
 }
